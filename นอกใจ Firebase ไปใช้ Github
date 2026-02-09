@@ -1,0 +1,776 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+    <h1>Initial D ดริฟท์ติ้ง ซิ่งสายฟ้า</h1>
+</header>
+<nav>
+    <a href="week2-1.html">หน้าแรก</a> | 
+</nav>
+<main>
+    <img 
+      src="https://m.media-amazon.com/images/S/pv-target-images/c289ded1d9a2f66b5f3e5ab21b3d5aad0ead7d1161249ddf83a580f8d33a7e3a.jpg" 
+      alt=""
+      width="300"
+    />
+      <h2>เนื้อเรื่อง</h2>
+    <p>
+      จากตอนแรกที่ขับรถแบบซังกะตาย ทาคุมิกลับกลายเป็นคนดังในชั่วข้ามคืนเมื่อเขาขับรถส่งเต้าหู้ไปแซงรถสปอร์ตราคาแพงบนทางเขา
+      ทำให้เหล่า "นักซิ่ง" ทั่วสารทิศพากันมาท้าดวลเพื่อพิสูจน์ฝีมือ แต่ทาคุมิก็ใช้ไหวพริบและเทคนิคเหนือชั้นเอาชนะมาได้ตลอด 
+      จนถูกขนานนามว่าเป็นตำนานที่ยังมีลมหายใจแห่งเขาอากินะ ในที่สุดเขาก็ได้รับคำชวนให้เข้าร่วมทีม Project D เพื่อตระเวนท้าแข่งไปทั่วญี่ปุ่น 
+      โดยมีเป้าหมายคือการทำลายสถิติทุกสนามและก้าวไปสู่จุดสูงสุดของการเป็นนักขับรถมืออาชีพ โดยมีรถ AE86 คู่ใจเป็นเครื่องพิสูจน์ว่า "ความแรงของรถ ไม่สำคัญเท่าฝีมือคนขับ"
+    </p>
+    <h2>ตัวละครที่น่าสนใจ</h2>
+    <ol>
+        <li><a href="week2-2.html">ฟูจิวาระ ทาคุมิ</a></li>
+        <li><a href="week2-3.html">ทากาฮาชิ เรียวสุเกะ</a></li>
+        <li><a href="week2-4.html">ทากาฮาชิ เคย์สุเกะ</a></li>
+    </ol>
+</main>
+<footer>
+    &copy; initial d
+</footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <title>ข้อมูลตัวละคร</title>
+</head>
+<body>
+    <header>
+        <h1>ข้อมูลตัวละคร - ฟูจิวาระ ทาคุมิ</h1>
+    </header>
+    <nav>
+        <a href="week2-1.html">หน้าแรก</a> | 
+    </nav>
+    <main>
+        <h2>ฟูจิวาระ ทาคุมิ</h2>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr5M9oWwsd_3WbS4L-H0TLw6WZuRbFG0qjXw&s" alt="" width="300">
+        <h3>ประวัติ</h3>
+        <p>พระเอกของเรื่อง เด็กหนุ่มผู้มีพรสวรรค์ในการขับรถจากการส่งเต้าหู้ 
+           ขับรถ Toyota Sprinter Trueno AE86 
+           มีเอกลักษณ์คือการขับที่ดูเฉื่อยชาแต่เฉียบคมและมีไหวพริบในการแก้ปัญหาเฉพาะหน้าบนถนนสูงมาก</p>
+        <h3>Toyota Sprinter Trueno AE86 </h3>
+         <img src="https://www.drifted.com/wp-content/uploads/2021/04/initial-d-ae86.jpg" alt="" width="300">
+        <h3>ทักษะความสามารถ (List)</h3>
+        <p>
+            สไตล์: สัญชาตญาณและการปรับตัว (Adaptability)
+            <br>ทักษะเด่น:
+            <br>Weight Shifting: การถ่ายเทน้ำหนักรถที่สมบูรณ์แบบ ทำให้นำรถที่มีแรงม้าน้อยไปสู้กับรถที่แรงกว่าได้
+            <br>Gutter Run (ลงร่องระบายน้ำ): การใช้ล้อเกี่ยวร่องน้ำเพื่อสู้กับแรงเหวี่ยงหนีศูนย์กลาง ทำให้เข้าโค้งได้ด้วยความเร็วสูงโดยไม่หลุดโค้ง
+            <br>Blind Attack: การปิดไฟหน้าขับในความมืดสนิท เพื่อพรางตัวไม่ให้คู่แข่งรู้ตำแหน่งแล้วแซงขึ้นในจังหวะที่คาดไม่ถึง
+            <br>4-Wheel Drift: การดริฟท์แบบสี่ล้อที่ความเร็วสูง ซึ่งเป็นเทคนิคที่เลียนแบบมาจากพ่อ
+        </p>
+    </main>
+    <footer>
+        <p>&copy; initial d</p>
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <title>ข้อมูลตัวละคร</title>
+</head>
+<body>
+    <header>
+        <h1>ข้อมูลตัวละคร - ทากาฮาชิ เรียวสุเกะ</h1>
+    </header>
+    <nav>
+        <a href="week2-1.html">หน้าแรก</a> | 
+    </nav>
+    <main>
+        <h2>ทากาฮาชิ เรียวสุเกะ</h2>
+        <img src="https://i.pinimg.com/736x/6c/04/ed/6c04ed8a299168ab7a157f3c4b30f8ce.jpg" alt="" width="300">
+        <h3>ประวัติ</h3>
+        <p>ฉายา "อัจฉริยะสีขาว" เป็นมันสมองของเรื่องที่ใช้ทฤษฎีและการคำนวณในการแข่งรถ เขาเป็นคนก่อตั้ง Project D เพื่อปั้นทาคุมิและเคย์สุเกะ ขับรถ Mazda RX-7 </p>
+        <h3>Mazda RX-7 (FC3S)</h3>
+         <img src="https://i.pinimg.com/736x/5b/aa/7a/5baa7aa047a18c6c5e4687ba5dee782f.jpg" alt="" width="300">
+        <h3>ทักษะความสามารถ (List)</h3>
+        <p>
+            สไตล์: ทฤษฎีและการวิเคราะห์ (High Intelligence)
+            <br>ทักษะเด่น:
+            <br>Fastest Racing Theory: เขาสามารถคำนวณทุกอย่างเป็นตัวเลข ตั้งแต่องศาโค้ง สภาพยาง ไปจนถึงจิตวิทยาของคู่แข่ง
+            <br>Precise Steering: การคุมพวงมาลัยที่แม่นยำระดับมิลลิเมตร เขาแทบจะไม่ทำอะไรที่เกินจำเป็นเลย
+            <br>Mentorship: ความสามารถในการอ่านศักยภาพของคนอื่น และรู้วิธีดึงพลังแฝงของนักแข่งในทีมออกมา
+        </p>
+    </main>
+    <footer>
+        <p>&copy; initial d</p>
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <title>ข้อมูลตัวละคร</title>
+</head>
+<body>
+    <header>
+        <h1>ข้อมูลตัวละคร - ทากาฮาชิ เคย์สุเกะ</h1>
+    </header>
+    <nav>
+        <a href="week2-1.html">หน้าแรก</a> | 
+    </nav>
+    <main>
+        <h2>ทากาฮาชิ เคย์สุเกะ</h2>
+        <img src="https://i.pinimg.com/236x/55/c4/43/55c443b05acf831011cae8d0a111fc55.jpg" alt="" width="300">
+        <h3>ประวัติ</h3>
+        <p>น้องชายของเรียวสุเกะ คู่ปรับคนแรกของทาคุมิที่กลายมาเป็นเพื่อนร่วมทีม มีนิสัยมุทะลุและเน้นการใช้สัญชาตญาณ ขับรถ Mazda RX-7 </p>
+        <h3>Mazda RX-7 </h3>
+         <img src="https://i.pinimg.com/1200x/12/7d/65/127d6540dbe7759aafd130dd6cb2f555.jpg" alt="" width="300">
+        <h3>ทักษะความสามารถ (List)</h3>
+        <p>
+            สไตล์: พละกำลังและความทะเยอทะยาน (Aggressive)
+            <br>ทักษะเด่น:
+            <br>Throttle Control: มีทักษะการใช้คันเร่งที่ละเอียดมาก (Fine-tuned Footwork) ทำให้เขาสามารถเร่งความเร็วออกจากโค้งได้ไวกว่าคนอื่น
+            <br>Hillclimb Specialist: ชำนาญการแข่ง "ขาขึ้น" (Uphill) ซึ่งต้องใช้พลังเครื่องยนต์และการคุมแรงขับเคลื่อนที่สูงมาก
+        </p>
+    </main>
+    <footer>
+        <p>&copy; initial d</p>
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <title>คำคมที่ประทับใจ</title>
+    <style>
+        body {
+            background-image: url('https://i.pinimg.com/736x/5d/ea/1b/5dea1b855ac6671f3992a30f9801912f.jpg'); 
+            background-size: cover; 
+            background-attachment: fixed; 
+            background-repeat: no-repeat; 
+            font-family: 'Sarabun', sans-serif;
+            text-align: center;
+            
+            padding: 50px;
+        }
+        h1 {
+            color: #f9fafc;
+            text-decoration: underline;
+        }
+        p {
+            color: #e67e22;
+            font-size: 48px; 
+            font-style: italic;
+            font-weight: bold;
+            margin: 30px 0;
+        }
+        h3 {
+            color: #7f8c8d;
+            font-size: 20px;
+            font-weight: normal; 
+        }
+    </style>
+</head>
+<header>
+    <nav>
+    <a href="./index.html">หน้าแรก</a> | 
+</nav>
+</header>
+<body>
+
+    <h1>คำคมที่ประทับใจ</h1>
+
+    <p>"ราชาไม่หวั่นไหว ราชาไม่โลเล"</p>
+
+    <h3>By Thanphisit Damkham</h3>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <style>
+        .navbar {
+            display: flex;                
+            justify-content: center;      
+            background-color: #333;     
+            padding: 10px;
+            width: 100%;                
+        }
+        .navbar a {
+            text-decoration: none;       
+            color: rgb(0, 0, 0);                
+            background-color: #f3f3f4;    
+            padding: 10px 20px;         
+            margin: 0 10px;               
+            border-radius: 5px;           
+        }
+     
+    </style>
+</head>
+<header>
+    <nav>
+    <a href="./index.html">หน้าแรก</a> | 
+</nav>
+</header>
+<body>
+
+    <div class="navbar">
+        <a href="./index.html">หน้าแรก</a>
+        <a href="./profile.html">เกี่ยวกับเรา</a>
+        <a href="./IMG20250616143104.jpg">ติดต่อเรา</a>
+    </div>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <center><h1>Create Razer ID Account</h1>
+        Razer ID is a unified account for all Razer services.
+    <style>
+        body {
+            background-color: #eeeeee;
+            color: #000000;
+            display: flex;
+            min-height: 100vh;
+            margin: 0;
+        }
+
+        .signup-container {
+            width: 100%;
+            max-width: 400px;
+            padding: 20px;
+        }
+        .input-group {
+            margin-bottom: 15px;
+        }
+        input[type="text"],
+        input[type="email"],
+        input[type="password"],
+        select {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #000000;
+            color: #000000;
+            box-sizing: border-box;
+            font-size: 14px;
+        }
+
+
+        input[name="razer-id"] {
+            border: 1px solid #000000;
+        }
+
+        .password-hint {
+            font-size: 12px;
+            color: #000000;
+            display: flex;
+            justify-content: space-between;
+            margin-top: 5px;
+        }
+
+        .checkbox-group {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+
+        .checkbox-group input {
+            width: 18px;
+            height: 18px;
+            cursor: pointer;
+        }
+
+        .btn-submit {
+            width: 100%;
+            padding: 10px;
+            background-color: #070707; 
+            color: #ffffff;
+            border: none;
+            font-weight: bold;
+            cursor: pointer;
+            margin-top: 20px;
+            text-transform: uppercase;
+            transition: background 0.3s;
+        }
+    </style>
+</head> 
+<body>
+</header>
+<div class="signup-container">
+    <p class="required-text">All fields are required.</p>
+    
+    <form>
+        <div class="input-group">
+            <input type="text" name="razer-id" placeholder="RAZER ID (YOUR GAMER NAME)">
+        </div>
+
+        <div class="input-group">
+            <select>
+                <option value="thailand">Thailand</option>
+                <option value="usa">USA</option>
+                <option value="คนหล่อ">คนหล่อ</option>
+            </select>
+        </div>
+
+        <div class="input-group">
+            <input type="text" placeholder="Birthday (DD/MM/YYYY)">
+        </div>
+
+        <div class="input-group">
+            <input type="email" placeholder="EMAIL ADDRESS">
+        </div>
+
+        <div class="input-group">
+            <input type="password" placeholder="PASSWORD">
+            <div class="password-hint">
+            </div>
+        </div>
+
+        <h3>Sign up for Razer emails</h3>
+
+        <div class="checkbox-group">
+            <input type="checkbox" id="announcements">
+            <label for="announcements">Razer Announcements</label>
+        </div>
+
+        <div class="checkbox-group">
+            <input type="checkbox" id="gold-silver">
+            <label for="gold-silver">Razer Gold & Silver</label>
+        </div>
+
+        <button type="submit" class="btn-submit">ACCEPT AND CREATE</button>
+    </form>
+</div>
+<header>
+    <nav>
+    <a href="./index.html">หน้าแรก</a> | 
+</nav>
+</header>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ตารางเรียน 1/8</title>
+</head>
+<header>
+    <nav>
+    <a href="./index.html">หน้าแรก</a> | 
+</nav>
+</header>
+<body>
+
+    <table border="1">
+        <caption>ตาราง ธัญพิสิษฐิ์ ดำขำ</caption>
+        
+        <tr align="center">
+            <td>วัน / เวลา</td>
+            <td>08:30 - 09:30น.</td>
+            <td>09:30 - 10:30น.</td>
+            <td>10:30 - 11:30น.</td>
+            <td>11:30 - 12:30น.</td>
+            <td>12:30 - 13:30น.</td>
+            <td>13:30 - 14:30น.</td>
+        </tr>
+
+        <tr align="center">
+            <td>จันทร์</td>
+            <td>ประวัติศาสตร์ไทย</td>
+            <td>เพศวิถีศึกษา</td>
+            <td rowspan="5">พัก</td>
+            <td colspan="2">การออกแบบเว็บไซต์</td>
+            <td rowspan="5">HR</td>
+        </tr>
+
+        <tr align="center">
+            <td>อังคาร</td>
+            <td colspan="2">Listening & Speaking English</td>
+            <td colspan="2">การสร้างภาพเคลื่อนไหวเบื้องต้น</td>
+        </tr>
+
+        <tr align="center">
+            <td>พุธ</td>
+            <td colspan="2">การออกแบบเว็บไซต์</td>
+            <td colspan="2">การสร้างภาพเคลื่อนไหวเบื้องต้น</td>
+        </tr>
+
+        <tr align="center">
+            <td>พฤหัสบดี</td>
+            <td colspan="2">การสร้างภาพเคลื่อนไหวเบื้องต้น</td>
+            <td colspan="2">การออกแบบเว็บไซต์</td>
+        </tr>
+
+        <tr align="center">
+            <td>ศุกร์</td>
+            <td colspan="2">Listening & Speaking English</td>
+            <td>เพศวิถีศึกษา</td>
+            <td>ประวัติศาสตร์ไทย</td>
+        </tr>
+
+    </table>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Page Not Found</title>
+
+    <style media="screen">
+      body { background: #ECEFF1; color: rgba(0,0,0,0.87); font-family: Roboto, Helvetica, Arial, sans-serif; margin: 0; padding: 0; }
+      #message { background: white; max-width: 360px; margin: 100px auto 16px; padding: 32px 24px 16px; border-radius: 3px; }
+      #message h3 { color: #888; font-weight: normal; font-size: 16px; margin: 16px 0 12px; }
+      #message h2 { color: #ffa100; font-weight: bold; font-size: 16px; margin: 0 0 8px; }
+      #message h1 { font-size: 22px; font-weight: 300; color: rgba(0,0,0,0.6); margin: 0 0 16px;}
+      #message p { line-height: 140%; margin: 16px 0 24px; font-size: 14px; }
+      #message a { display: block; text-align: center; background: #039be5; text-transform: uppercase; text-decoration: none; color: white; padding: 16px; border-radius: 4px; }
+      #message, #message a { box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24); }
+      #load { color: rgba(0,0,0,0.4); text-align: center; font-size: 13px; }
+      @media (max-width: 600px) {
+        body, #message { margin-top: 0; background: white; box-shadow: none; }
+        body { border-top: 16px solid #ffa100; }
+      }
+    </style>
+  </head>
+  <body>
+    <div id="message">
+      <h2>404</h2>
+      <h1>Page Not Found</h1>
+      <p>The specified file was not found on this website. Please check the URL for mistakes and try again.</p>
+      <h3>Why am I seeing this?</h3>
+      <p>This page was generated by the Firebase Command-Line Interface. To modify it, edit the <code>404.html</code> file in your project's configured <code>public</code> directory.</p>
+    </div>
+  </body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grid</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            background-color: #fefefe; 
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            display: grid;
+            grid-template-columns: 1fr 1fr; 
+            gap: 20px;  
+            max-width: 1000px;
+            margin: auto;
+            padding: 40px 20px;
+        }
+        .card {
+            background: #ffffff; 
+            border: 1px solid #000000;
+            border-radius: 8px;
+            padding: 30px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 200px; 
+            box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+        }
+        .skeleton-text {
+            background-color: #bda5a500; 
+            height: 15px;
+            border-radius: 4px;
+            margin-bottom: 15px;
+        }
+        .title-place {  width: 60%; } 
+        .price-place {  width: 30%; } 
+        button {
+            width: 100px; 
+            height: 35px; 
+            background-color: #3498db00; 
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<header>
+    <nav>
+    <a href="./index.html">หน้าแรก</a> | 
+</nav>
+</header>
+<body>
+    <div class="container">
+        <div class="card">
+            <div class="skeleton-text title-place"></div>
+            <div class="skeleton-text price-place"></div>
+            <button></button>
+        </div>
+
+        <div class="card">
+            <div class="skeleton-text title-place"></div>
+            <div class="skeleton-text price-place"></div>
+            <button></button>
+        </div>
+
+        <div class="card">
+            <div class="skeleton-text title-place"></div>
+            <div class="skeleton-text price-place"></div>
+            <button></button>
+        </div>
+
+        <div class="card">
+            <div class="skeleton-text title-place"></div>
+            <div class="skeleton-text price-place"></div>
+            <button></button>
+        </div>
+    </div>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<style>
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); 
+    gap: 15px;
+    padding: 20px;
+    font-family: sans-serif;
+}
+
+.card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 150px; 
+    text-decoration: none; 
+    border-radius: 10px;
+    font-weight: bold;
+    box-shadow: 0 4px 6px rgba(255, 255, 255, 0.1);
+    transition: 0.3s;
+}
+
+.dark {
+    background-color: #ffffff;
+    color: rgb(235, 0, 0);
+    border: 1px solid #000000; 
+}
+
+.white {
+    background-color: #fffbfb;
+    color: #fb0000;
+    border: 1px solid #000000; 
+}
+</style>
+<body>
+    <div class="grid-container">
+        <a href="./profile.html" target="_blank" class="card dark">โปรไฟล์</a>
+        <a href="./week2-1.html" target="_blank" class="card dark">การ์ตูนที่ชอบ</a>
+        <a href="./Week3Table.html" target="_blank" class="card dark">Week 3 Table</a>
+        <a href="./Week3BasicCss.html" target="_blank" class="card white">Week 3 Basic Css</a>
+        <a href="./Week3Form.html" target="_blank" class="card white">Week 3 Form</a>
+        <a href="./Week3Flex.html" target="_blank" class="card white">Week 3 Flex</a>
+        <a href="./week 5.html" target="_blank" class="card white">Week 5</a>
+    </div>
+</body>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Than</title> 
+</head>
+<header>
+    <nav>
+    <a href="./index.html">หน้าแรก</a> | 
+</nav>
+</header>
+<body>
+    <h1>ประวัติส่วนตัวนายธัญพิสิษฐิ์ ดำขำ</h1>
+
+    <img src="IMG20250616143104.jpg" alt="รูปตัวเอง" width="200">
+
+    <h2>เป็นหัวหน้าองค์กรแสงอุษา</h2>
+
+    <p>ท่ามกลางสมรภูมิที่นองเลือดมานานนับทศวรรษ อุจิวะ มาดาระ เติบโตขึ้นมาพร้อมกับความสูญเสียครั้งแล้วครั้งเล่า เขาเห็นพี่น้องตายในสนามรบ และเห็นว่ามิตรภาพระหว่างเขากับฮาชิรามะไม่สามารถหยุดยั้งกงเกวียนแห่งความเกลียดชังของเหล่านินจาได้ ความผิดหวังซ้ำเล่านี้บ่มเพาะกลายเป็นความเชื่อที่ฝังรากลึกว่า "โลกความจริงคือขุมนรก" ที่ไม่มีวันพบสันติภาพที่ยั่งยืน</p>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ร้านขายปืน</title>
+    <style>
+        :root {
+            --primary-pink: #0e0d0d;
+            --dark-bg: #ffffff;
+            --card-bg: #1d1b1bf5;
+            --text-gray: #926a6a;
+        }
+
+
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body { font-family: 'Kanit', sans-serif; background-color: var(--dark-bg); color: white; line-height: 1.6; }
+
+
+        /* --- NAVIGATION (FLEXBOX) --- */
+        nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 15px 8%;
+            background: rgba(0,0,0,0.8);
+        }
+        .logo { font-weight: bold; font-size: 1.2rem; color: var(--text-gray); }
+        .nav-links { display: flex; list-style: none; gap: 20px; }
+        .nav-links a { color: white; text-decoration: none; font-size: 0.9rem; }
+
+
+        /* --- HERO BANNER --- */
+        .banner {
+            width: 90%; max-width: 1200px; margin: 20px auto;
+            border-radius: 15px; overflow: hidden;
+            box-shadow: 0 0 20px rgba(255, 45, 85, 0.3);
+        }
+        .banner img { width: 100%; display: block; }
+
+
+        /* --- MAIN CONTENT --- */
+        .container { width: 90%; max-width: 1200px; margin: 0 auto; padding-bottom: 50px; }
+       
+        .section-title { margin: 30px 0 10px; color: var(--primary-pink); font-size: 1.8rem; }
+        .announcement { font-size: 0.85rem; color: #ccc; margin-bottom: 30px; background: rgba(255,255,255,0.05); padding: 10px; border-radius: 5px; }
+
+
+        /* --- PRODUCT GRID (GRID) --- */
+        .product-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+            gap: 20px;
+        }
+
+
+        /* --- PRODUCT CARD (FLEXBOX) --- */
+        .card {
+            background: var(--card-bg);
+            border-radius: 10px;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+            border: 1px solid #333;
+        }
+        .card-img-wrapper { position: relative; width: 100%; height: 160px; }
+        .card-img-wrapper img { width: 100%; height: 100%; object-fit: cover; }
+       
+        .point-tag {
+            position: absolute; top: 10px; right: 10px;
+            background: rgba(255, 45, 85, 0.9);
+            padding: 2px 10px; border-radius: 20px; font-size: 0.8rem;
+        }
+
+
+        .card-info { padding: 15px; flex-grow: 1; display: flex; flex-direction: column; }
+        .card-info h3 { font-size: 0.95rem; margin-bottom: 5px; height: 2.4em; overflow: hidden; }
+        .stock { font-size: 0.8rem; color: var(--text-gray); margin-bottom: 15px; }
+
+
+        /* --- BUTTONS --- */
+        .btn {
+            width: 100%; padding: 8px; border: none; border-radius: 5px;
+            font-family: 'Kanit'; cursor: pointer; font-weight: 600;
+            transition: 0.3s;
+        }
+        .btn-buy { background: var(--primary-pink); color: white; }
+        .btn-out { background: #444; color: #888; cursor: not-allowed; }
+        .btn:hover:not(.btn-out) { opacity: 0.8; transform: scale(1.02); }
+
+
+    </style>
+</head>
+<body>
+
+
+<nav>
+    <div class="logo">สกินโหด888</div>
+    <ul class="nav-links">
+        <li><a href="#">🏠 บริการ</a></li>
+        <li><a href="#">💰 เติมเงิน</a></li>
+        <li><a href="#">📞 ติดต่อ</a></li>
+        <li><a href="#">👤 เข้าสู่ระบบ</a></li>
+    </ul>
+</nav>
+<div class="container">
+    <h2 class="section-title">สกิน Valorant</h2>
+    <div class="product-grid">
+        <div class="card">
+            <div class="card-img-wrapper">
+                <img src="https://valorantstrike.com/wp-content/uploads/Valorant-Gaia_s-Vengeance-Collection-Vandal-HD.jpg">
+                <span class="point-tag">1,775 VP</span>
+            </div>
+            <div class="card-info">
+                <h3>Gaia’s Vengeance Vandal</h3>
+                <p class="stock">สินค้าเหลืออยู่: 15 ชิ้น</p>
+                <button class="btn btn-buy">🛒 สั่งซื้อ</button>
+            </div>
+        </div>
+
+
+        <div class="card">
+            <div class="card-img-wrapper">
+                <img src="https://valorantstrike.com/wp-content/uploads/Valorant-Champions-2021-Collection-Vandal-HD.jpg" alt="product">
+                <span class="point-tag">2,675 VP</span>
+            </div>
+            <div class="card-info">
+                <h3>Valorant Champions Vandal🔥</h3>
+                <p class="stock">สินค้าเหลืออยู่: 0 ชิ้น</p>
+                <button class="btn btn-out">สินค้าหมด</button>
+            </div>
+        </div>
+
+
+        <div class="card">
+            <div class="card-img-wrapper">
+                <img src="https://valorantstrike.com/wp-content/uploads/Valorant-Prelude-to-Chaos-Collection-Vandal-HD.jpg" alt="product">
+                <span class="point-tag">2,175 VP</span>
+            </div>
+            <div class="card-info">
+                <h3>Prelude to Chaos Vandal</h3>
+                <p class="stock">สินค้าเหลืออยู่: 5 ชิ้น</p>
+                <button class="btn btn-buy">🛒 สั่งซื้อ</button>
+            </div>
+        </div>
+
+
+        <div class="card">
+            <div class="card-img-wrapper">
+                <img src="https://valorantstrike.com/wp-content/uploads/Valorant-RGX-11Z-Pro-Collection-Vandal-HD.jpg" alt="product">
+                <span class="point-tag">2,175 VP</span>
+            </div>
+            <div class="card-info">
+                <h3>Valorant RGX 11Z Pro Vandal</h3>
+                <p class="stock">สินค้าเหลืออยู่: 14 ชิ้น</p>
+                <button class="btn btn-buy">🛒 สั่งซื้อ</button>
+            </div>
+</body>
+</html>
+
