@@ -1,10 +1,58 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <meta charset="utf-8">
-  <title>Thanaphisit Web</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Web</title>
+
+    <style>
+        .grid-container {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 15px;
+            padding: 20px;
+            font-family: sans-serif;
+        }
+
+        .card {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 150px;
+            text-decoration: none;
+            border-radius: 10px;
+            font-weight: bold;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            transition: 0.3s;
+        }
+
+        .card:hover {
+            transform: scale(1.05);
+        }
+
+        .dark {
+            background-color: #ffffff;
+            color: rgb(235, 0, 0);
+            border: 1px solid #000000;
+        }
+
+        .white {
+            background-color: #fffffb;
+            color: #ff0000;
+            border: 1px solid #000000;
+        }
+    </style>
 </head>
+
 <body>
-  <h1>GitHub Pages ใช้งานได้แล้ว 🎉</h1>
+    <div class="grid-container">
+        <a href="profile.html" target="_blank" class="card dark">โปรไฟล์</a>
+        <a href="Week2-1.html" target="_blank" class="card dark">การบ้าน</a>
+        <a href="Week3Table.html" target="_blank" class="card dark">Week 3 Tables</a>
+        <a href="Week3BasicCss.html" target="_blank" class="card dark">Week 3 Basic CSS</a>
+        <a href="Week3Form.html" target="_blank" class="card white">Week 3 Forms</a>
+        <a href="Week3Flex.html" target="_blank" class="card white">Week 3 Flex</a>
+        <a href="Week5.html" target="_blank" class="card white">Week 5</a>
+    </div>
 </body>
 </html>
